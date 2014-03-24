@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1395523005 source:/home/mac21/Desktop/programaing/tarea4/main.cpp
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	<string>
+
